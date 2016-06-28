@@ -11,10 +11,10 @@
 		},
 		{
 			"Event Name" : "VRC",
-			"Team 1" : "V1",
+			"Team 1" : "V3",
 			"Team 2" : "V2",
 			"Venue" : "QUAD",
-			"Date" : "28/12/2016",
+			"Date" : "29/12/2016",
 			"Time" : "11:30 AM",
 			"Result" : ""
 		},
@@ -43,6 +43,15 @@
 			"Venue" : "QUAD",
 			"Date" : "28/12/2016",
 			"Time" : "12:00 PM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "RoboSumo",
+			"Team 1" : "RS3",
+			"Team 2" : "RS4",
+			"Venue" : "QUAD",
+			"Date" : "28/12/2016",
+			"Time" : "1:00 PM",
 			"Result" : ""
 		}
 	],
@@ -76,10 +85,10 @@
 			"Result" : ""
 		},
 		{
-			"Event Name" : "",
+			"Event Name" : "CODE IN X",
 			"Venue" : "",
-			"Date" : "",
-			"Time" : "",
+			"Date" : "17/9/2016",
+			"Time" : "10:30 AM",
 			"Result" : ""
 		}
 	],
