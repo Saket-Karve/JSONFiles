@@ -12,10 +12,10 @@
 		{
 			"Event Name" : "VRC",
 			"Team 1" : "V3",
-			"Team 2" : "V2",
+			"Team 2" : "V4",
 			"Venue" : "QUAD",
 			"Date" : "29/12/2016",
-			"Time" : "11:30 AM",
+			"Time" : "12:30 AM",
 			"Result" : ""
 		},
 		{
@@ -50,6 +50,15 @@
 			"Team 1" : "RS3",
 			"Team 2" : "RS4",
 			"Venue" : "QUAD",
+			"Date" : "28/12/2016",
+			"Time" : "1:00 PM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Fast N Furious",
+			"Team 1" : "F3",
+			"Team 2" : "F4",
+			"Venue" : "Football Ground",
 			"Date" : "28/12/2016",
 			"Time" : "1:00 PM",
 			"Result" : ""
