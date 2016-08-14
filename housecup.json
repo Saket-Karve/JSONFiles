@@ -1,18 +1,9 @@
 {
 	"Housecup" :[
 		{
-			"House Name" : "Red Phoenix",
-			"Points" : ""
-		},
-		
-		{
-			"House Name" : "Blue Dragons",
-			"Points" : ""
-		},
-		
-		{
-			"House Name" : "Green Griffins",
-			"Points" : ""
+			"Red" : "100",
+			"Blue" : "120",
+			"Green" : "130"
 		}
 	]
 }
