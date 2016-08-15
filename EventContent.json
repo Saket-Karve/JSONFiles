@@ -221,15 +221,55 @@
 			"PointSystem" : "<b>COMING SOON</b>"
 		},
 		{
-			"Name" : "Jr_XCON",
-			"Intro" : "<b>COMING SOON</b>",
+			"Name" : "ScienceFair",
+			"Intro" : "School kids have come up with a project? Here is the chance for them to not just give them a direction to work, but also prepare and present their own creation before visitors of different walks of life. Science Fair is a 3-day exhibition where the students get to exhibit their projects with the availability of a proper stall set-up.<br/>\n" +
+                    "<b>Technovanza</b> aims at <b>Transforming India</b> by <b>Taking Technology to Society</b>, and the Science Fair is our novel endeavour in that direction. The Science Fair gives a platform for school students to showcase their Projects and research to over <b>35,000</b>  people who will be visiting <b>Technovanza</b> this year.\n",
 			"Theme" : "<b>COMING SOON</b>",
-			"Gameplay" : "<b>COMING SOON</b>",
+			"Gameplay" : "1.\tThink over a project idea.\n" +
+                            "2.\t Prepare an abstract mentioning the details of the project. \n" +
+                            "3.\tThe abstract for the <b>Project</b>  should be mailed to Technovanza in <b>pdf </b> at <b>schoolcup@technovanza.org</b>, latest by <b>1st October, 2016.</b>\n" +
+                            " The abstract should contain the following viewpoints: \n" +
+                            "\n" +
+                            "1.\tName of School\n" +
+                            "2.\tNames of Participants with contacts \n" +
+                            "3.\t Topic of Project \n" +
+                            "4.\t Brief Description of Project\n" +
+                            "5.\t Roadmap for Execution \n" +
+                            " \n" +
+                            "The <b>Top 20 teams</b>, based on <b>Merit</b>, will be chosen and informed by <b>15th October, 2016</b>. Only they will be allowed to exhibit the projects at the <b>Exhibition Tent</b>.\n" +
+                            "The teams will be allotted a space of <b>8*6 Feet</b> to display their project. The dimensions of the Bench will be divulged later. The students can use <b>Charts</b> and <b>Laptops</b> to display information about their projects via <b>written and visual media</b>.\n",
 			"Arena" : "<b>COMING SOON</b>",
-			"TeamSpecs" : "<b>COMING SOON</b>",
+			"TeamSpecs" : "A team must have <b>Maximum of 6</b> participants \n Students from different colleges can also form a team \n "",
 			"BotSpecs" : "<b>COMING SOON</b>",
-			"Rules" : "<b>COMING SOON</b>",
-			"PointSystem" : "<b>COMING SOON</b>"
+			"Rules" : "• Send abstract at makers.square@technovanza.org \n" +
+                            "• Abstract should be submitted in PDF only \n" +
+                            "• Maximum number of words should be less than 2000 words \n" +
+                            "• The contents should be as follows:\n" +
+                            " i. Title \n" +
+                            "ii. Introduction \n" +
+                            "iii. Motivation behind the Idea\n" +
+                            "iv. Working \n" +
+                            "v. Mathematical / Graphical support (if any) \n" +
+                            "vi. Existing related technologies(if any) \n" +
+                            "vii. Improvements in current technologies(if any) \n" +
+                            "viii. Videos / Photos \n" +
+                            "ix. Summary \n" +
+                            "x. References \n" +
+                            "\n" +
+                            "The proposal would be judged on basis of feasibility and significance. \n" +
+                            "Note: Please mention the following details in the mail of each member: \n" +
+                            "- Project Name \n" +
+                            "- Member Name \n" +
+                            "- Contact number \n" +
+                            "- Email-Id \n" +
+                            "- College Name \n" +
+                            "\n" +
+                            " RESPONSES WITHOUT ABOVE DETAILS WON’T BE ACCEPTED \n",
+			"PointSystem" : "Winner would be decided on points given by three judges based on different specific criterias. Decision of judges would be final.\n" +
+                            "\n" +
+                            "<b>CERTIFICATE POLICY</b>\n" +
+                            "1. Participating teams would get participation certificates. Top three teams will be given certificates of excellence.\n" +
+                            "2. Disqualified teams will not be given any certificates\n""
 		},
 		{
 			"Name" : "BizQuiz",
