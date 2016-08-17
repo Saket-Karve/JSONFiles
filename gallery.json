@@ -2,6 +2,10 @@
 "wallpapers": 
 	[
 		{
+			"url": "http://test.technovanza.org/images/Events/1.jpg",
+			"name": "ShotA"
+		},
+		{
 			"url": "https://pbs.twimg.com/media/CoDqx8fUMAQfdhb.jpg:large",
 			"name": "ShotA"
 		},
