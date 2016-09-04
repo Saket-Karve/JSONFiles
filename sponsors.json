@@ -1,0 +1,139 @@
+{
+	"Title Sponsor" :[
+		{
+			"logo" : "http://technovanza.org/Spons2015/lnt.png",
+			"Name" : "Larsen and Toubro",
+			"link" : "http://www.larsentoubro.com"
+		}
+
+	],
+	"Powered By" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/redhat.png",
+			"Name" : "Redhat",
+			"link" : "http://www.redhat.com"
+		}
+
+	],
+	"Co-powered By" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
+			"Name" : "Mumbai Mirror",
+			"link" : "http://www.mumbaimirror.com"
+		}
+
+	],
+	"Sponsored By" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
+			"Name" : "K-Hemani",
+			"link" : "http://www.khemani.co.in"
+		}
+
+	],
+	"In Association with" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/bse.png",
+			"Name" : "Bombay Stock Exchange",
+			"link" : "http://www.bseindia.com"
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/prolite.png",
+			"Name" : "prolite",
+			"link" : "http://www.prolite.in"
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/endeavor.png",
+			"Name" : "Endeavor",
+			"link" : "http://www.endeavorcareers.com"
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/jsw.png",
+			"Name" : "JSW",
+			"link" : "http://www.jsw.in/steel"
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/vishaworld.png",
+			"Name" : "Visha World",
+			"link" : "http://www.vishaworld.com"
+		}
+		
+	],
+	"Media Partners" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/Nabata.png",
+			"Name" : "Navbharat Times",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/Mata.png",
+			"Name" : "Maharashtra Times",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/pudhari.png",
+			"Name" : "Pudhari",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/corporateindia.png",
+			"Name" : "Corporate India",
+			"link" : "http://www.corporateindia.biz"
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/efygroup.png",
+			"Name" : "EFY Group",
+			"link" : "http://efy.in"
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/freepress.png",
+			"Name" : "FREEPRESS",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/jam.png",
+			"Name" : "JAM",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/Spons2015/digit.png",
+			"Name" : "Digit.in",
+			"link" : "http://www.digit.in"
+		}
+		
+		
+	],
+	"Outdoor Partners" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/Mata.png",
+			"Name" : "Maharashtra Times",
+			"link" : ""
+		}
+		
+	],
+	"Technical Partners" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/pudhari.png",
+			"Name" : "Pudhari",
+			"link" : ""
+		}
+		
+	],
+	"Online Partners" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
+			"Name" : "",
+			"link" : ""
+		}
+		
+	],
+	"Other Partners" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
+			"Name" : "",
+			"link" : "",
+			"category" : ""
+		}
+		
+	]
+}
