@@ -12,6 +12,13 @@
 
 	],
 	"GLS" : [
+		"Speaker Name" : "Kiran Bedi",
+			"Venue" : "Auditorium",
+			"Date" : "28/12/2016",
+			"Time" : "03:00 PM",
+			"Description" : "This is the discription for the lecture and of the speaker",
+			"Topic" : "Make In India",
+			"Image" : ""
 		
 	]
 }
