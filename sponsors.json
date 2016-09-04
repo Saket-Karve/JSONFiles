@@ -35,27 +35,32 @@
 		{
 			"logo" : "http://technovanza.org/Spons2015/bse.png",
 			"Name" : "Bombay Stock Exchange",
-			"link" : "http://www.bseindia.com"
+			"link" : "http://www.bseindia.com",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/prolite.png",
 			"Name" : "prolite",
-			"link" : "http://www.prolite.in"
+			"link" : "http://www.prolite.in",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/endeavor.png",
 			"Name" : "Endeavor",
-			"link" : "http://www.endeavorcareers.com"
+			"link" : "http://www.endeavorcareers.com",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/jsw.png",
 			"Name" : "JSW",
-			"link" : "http://www.jsw.in/steel"
+			"link" : "http://www.jsw.in/steel",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/vishaworld.png",
 			"Name" : "Visha World",
-			"link" : "http://www.vishaworld.com"
+			"link" : "http://www.vishaworld.com",
+			"category" : "NA"
 		}
 		
 	],
@@ -63,42 +68,50 @@
 		{
 			"logo" : "http://technovanza.org/Spons2015/Nabata.png",
 			"Name" : "Navbharat Times",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/Mata.png",
 			"Name" : "Maharashtra Times",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/pudhari.png",
 			"Name" : "Pudhari",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/corporateindia.png",
 			"Name" : "Corporate India",
-			"link" : "http://www.corporateindia.biz"
+			"link" : "http://www.corporateindia.biz",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/efygroup.png",
 			"Name" : "EFY Group",
-			"link" : "http://efy.in"
+			"link" : "http://efy.in",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/freepress.png",
 			"Name" : "FREEPRESS",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/jam.png",
 			"Name" : "JAM",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		},
 		{
 			"logo" : "http://technovanza.org/Spons2015/digit.png",
 			"Name" : "Digit.in",
-			"link" : "http://www.digit.in"
+			"link" : "http://www.digit.in",
+			"category" : "NA"
 		}
 		
 		
@@ -107,7 +120,8 @@
 		{
 			"logo" : "http://technovanza.org/Spons2015/Mata.png",
 			"Name" : "Maharashtra Times",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		}
 		
 	],
@@ -115,7 +129,8 @@
 		{
 			"logo" : "http://technovanza.org/Spons2015/pudhari.png",
 			"Name" : "Pudhari",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		}
 		
 	],
@@ -123,7 +138,8 @@
 		{
 			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
 			"Name" : "",
-			"link" : ""
+			"link" : "",
+			"category" : "NA"
 		}
 		
 	],
