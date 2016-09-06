@@ -12,5 +12,14 @@
 
 	],
 	"GLS" : [
+		{
+			"Speaker Name" : "Dr. John Mather",
+			"Venue" : "Mechanical Seminar Hall",
+			"Date" : "08/09/2016",
+			"Time" : "5:00 PM",
+			"Description" : "A Nobel Laureate and a senior astrophysicist from NASA",
+			"Topic" : "",
+			"Image" : ""
+		}
 	]
 }
