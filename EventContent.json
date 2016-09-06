@@ -310,47 +310,58 @@
 		},
 		{
 			"Name" : "Code_In_X",
-			"Intro" : "<b>COMING SOON</b>",
+			"Intro" : "Love Coding?? Know all the coding Languages?? You think you know it all?? If you are the best out of the rest, then here is a chance to prove it.<br><b>Code in X</b>, is an open challenge to all the geeks out there. <br>Come and quench your thirst. Accept the challenge and test the coder in you. <br>Come be the X.<br>",
 			"Theme" : "<b>COMING SOON</b>",
-			"Gameplay" : "<b>COMING SOON</b>",
+			"Gameplay" : "<b>Round 1: - Conversion of algorithm into code</b> <br><br>1.  Participants will be given  Algorithms<br> 2.  According to given language participant have to code the algorithms<br>3.  Each question will be of 100 marks.<br><br><b>Round 2: - Xcoder</b><br><br>1.    5 program question will be provided.<br>2.    According to given procedural oriented language and object oriented language participant have  to solve and code 5 different Questions.The language for the question will be hidden in a puzzle.<br>3.    Each question will be of 100 marks.<br>",
 			"Arena" : "<b>COMING SOON</b>",
-			"TeamSpecs" : "<b>COMING SOON</b>",
+			"TeamSpecs" : "Code in X is an <b>Individual</b> event",
 			"BotSpecs" : "<b>COMING SOON</b>",
-			"Rules" : "<b>COMING SOON</b>",
-			"PointSystem" : "<b>COMING SOON</b>"
+			"Rules" : "Please do not discuss strategy, suggestions or tips in the comments during a live contest. Posting questions clarifying the problem statement is ok. <br>Discussing any problems or any aspect of problem, on any other platform on web, on identification, could lead to disabling of respective account and banning from the community.<br>You can submit solutions as many times as you'd like, there are no penalties for incorrect submissions.    <br>",
+			"PointSystem" : "Each question in <b>Round 1</b> will have <b>100 points</b>.<br><br> <b>Round 2</b> will have 5 questions each question having <b>100 points</b>"
 		},
 		{
 			"Name" : "Algocrack",
-			"Intro" : "<b>COMING SOON</b>",
+			"Intro" : "Algorithm is defined as an instance of logic, the key to unlock the toughest challenges of programming.<br>Here is your chance to test your logic and crack the most demanding and mindboggling challenges of Algorithm.<br>Are you ready to change your thinking radically to solve our most difficult problems? <br>",
 			"Theme" : "<b>COMING SOON</b>",
-			"Gameplay" : "<b>COMING SOON</b>",
+			"Gameplay" : "1.  There will be two rounds, the qualifier and the finale.<br>2.  Section A in Round-A will contain MCQ’S with riddles.<br>3.  Section B in Round-B will contain a question where participant has to answer the question by giving algorithm and implementing its program.<br>4.  The participants will have to qualify the Round A point criteria to play the next round.<br>",
 			"Arena" : "<b>COMING SOON</b>",
-			"TeamSpecs" : "<b>COMING SOON</b>",
+			"TeamSpecs" : "Algocrack is an <b>Individual</b> event",
 			"BotSpecs" : "<b>COMING SOON</b>",
-			"Rules" : "<b>COMING SOON</b>",
-			"PointSystem" : "<b>COMING SOON</b>"
+			"Rules" : "Participation is individual.<br>2.Only one entry per participant per round will be entertained.<br>3.You can make <b>ONLY ONE SUBMISSION</b>.<br>4.This submission should include all your solutions.<br>5.Algorithms should be in proper English statements(C/C++ or java programs are not allowed).<br>6.Programs should be in C,C++ or Java language only.<br>7.Only Complete Algorithm will be considered.<br>8.Also any submission that contains harmful code, malware,etc. will lead to disqualification.<br>9.Any violation of rules will lead to disqualification.<br><u>NOTE</u>: Participants will have to provide their name,college,department,email id and contact information along with their solution,failing to which participation may get revoked.<br>",
+			"PointSystem" : "<b>ROUND A</b><br>Participant will require minimum 75 (60 in Section A & 15 in Section B each) points to qualify the round A.<br>•  Each MCQ will have a riddle with it, if your MCQ is correct you can claim for bonus riddle point for the same MCQ if you answer the riddle correct. i.e <br>Correct MCQ + Correct riddle = 10 pts.<br>Wrong MCQ + Correct riddle = no pt<br>•  In case of algorithms: 5 marks for algorithm and 5 marks for program.<br> <br> <b>ROUND B</b> •  In this Round thee will be 3 questions:<br>1.  Algorithm (5 questions 15 marks each)<br>2.  Puzzle (5 questions 10 marks each)<br>3.  Questions without options (5 questions 5 marks each)<br>•  This is the final round and top 3 will be selected as the winners.<br>"
 		},
 		{
 			"Name" : "Cryptext",
-			"Intro" : "<b>COMING SOON</b>",
+			"Intro" : "<b>Theme :- Murder Mystery</b><br>We’ve all read Agatha Christie, watched and read Sherlock Holmes and Hardy<br>Boys and Nancy Drew and what not detectives, not to forget our very own CID<br>(more of a comedy show) right and thought of ourselves as great detective too,<br>right??<br>Well, here’s your chance to be a detective… Put on your thinking caps, gear up<br>your mind, get your magnifying glasses and sharpen your deduction skills… We<br>present you our very own Murder Mystery in “Cryptext 2016”.<br>Decrypt your way into suspect profiles and clues and forensic analysis of<br>murder weapons to find the culprit in this adventure filled event…",
 			"Theme" : "<b>COMING SOON</b>",
-			"Gameplay" : "<b>COMING SOON</b>",
+			"Gameplay" : "<b>Each round will get you 1 step closer towards finding the killer</b><br><br><b>Round 1<b><br>Scenario of murder (just for reading)<br>12 statements will be encrypted. The key will be given if necessary in the form<br>of riddles.<br>Each correct decryption will solve 1 piece of your puzzle.<br>Key carries 2 marks and decrypted statement carries 8 marks.<br><br>Top <b>25-30 entries</b> will be selected for next round.<br><br><b>Round 2</b><br>The investigation has proceeded. But this time they have made it more difficult<br>to crack!<br>Each statement/clue has been encrypted by using 2 different techniques.<br>You need submit the answer as well as the intermediate result.<br>The intermediate carries 5 marks and the answer carries 10 marks.<br>Top <b>10 people</b> will play the third round.<br><br><b>Round 3</b><br>The mystery has heated up. There are more and more clues being found.<br>Here, the next clues will be encrypted using some encryption scheme. You need to write a code in Java/C/C++ to decrypt the clue.<br>The decrypted answer carries 10 marks and the code carries 40 marks.<br>In case of multiple correct entries the code with lesser execution time will be considered.",
 			"Arena" : "<b>COMING SOON</b>",
-			"TeamSpecs" : "<b>COMING SOON</b>",
+			"TeamSpecs" : "Cryptext is an <b>Individual</b> event",
 			"BotSpecs" : "<b>COMING SOON</b>",
-			"Rules" : "<b>COMING SOON</b>",
-			"PointSystem" : "<b>COMING SOON</b>"
+			"Rules" : "1. It’s an individual online event.<br>2. Each person can register only once.<br>3. The participants have to complete all the rounds to be able to win the competition.<br>4. You can make ONLY ONE submission.<br>5. Hints to decode the questions will be provided depending on the gameplay.<br>6. The decision of the organizers will be final and binding.",
+			"PointSystem" : "<b>ROUND 1</b><br><br>12 statements will encrypted. <br> Each correct decryption will fetch you 10 points (2 points for finding key and 8 points for decrypted statement)<br><br><b>ROUND 2</b> <br><br>Each statement/clue has been encrypted by using 2 different techniques.<br> The intermediate carries 5 marks and the answer carries 10 marks.<b>ROUND 3</b><br><br>Each decrypted answer carries 10 marks and the code carries 40 marks."
 		},
 		{
 			"Name" : "Myst",
-			"Intro" : "<b>COMING SOON</b>",
+			"Intro" : "Is 221B Baker Street close to your heart? <br><br>Does your eye always look for detail and helps you expose and decrypt the most obscure enigmas?<br><br>VJTI’s Technovanzapresent to you Myst 2016. <br><br>Riddles, Puzzles, Codes and Ciphers,calling out to all crusaders, trivia hunters, Alan Turings, and Sherlock Holms.<br><br>A hotly contested leaderboard, an adrenaline-fueled Facebook forum and a cryptic gameplay, all promise to make this pursuit worthy of the raiders of Myst, as participants battle day in and day outfor four days, conquering obstacles in a race for the ultimate treasure!<br><br>We promise you a stunning online clue-solving experience and a chanceto win prizes worth INR 3,000. <br><br>So put on your thinking hats, make yourself a large steaming mug of coffee, grab your digital shovel and start digging. <br><br>",
 			"Theme" : "<b>COMING SOON</b>",
-			"Gameplay" : "<b>COMING SOON</b>",
+			"Gameplay" : "1.  Event will span over four days and consist of four rounds.<br>2.  Each round consists of 10 questions and it will start from 9 am and ends at midnight.<br>3.  One question at a time will be presented to participants. Participants will be presented with one question at a time.<br>4.  Participant cannot skip any question.<br>5.  Participant has to decrypt the clue and answer the question correctly then only s/he will be presented with the next question.<br>6.  Participants can join the event on any of the four days.<br>7.  Clues for the questions will be provided on the Mystfacebook page depending on the gameplay.<br>8.  Winner will be decided on the basis of points and speed.<br>",
 			"Arena" : "<b>COMING SOON</b>",
-			"TeamSpecs" : "<b>COMING SOON</b>",
+			"TeamSpecs" : "Myst is an <b>Individual</b> event",
 			"BotSpecs" : "<b>COMING SOON</b>",
-			"Rules" : "<b>COMING SOON</b>",
-			"PointSystem" : "<b>COMING SOON</b>"
+			"Rules" : "1.  Eligibility: <b>Open to All</b>. Individual Participation.<br>2.  Number of Rounds: <b>Four<b>.<br>3.  Each round consists of <b>10 questions</b> and it will start from <b>11 am</b> and ends at <b>midnight</b>.<br>4.  Participants have to complete all the rounds to be able to win the competition. <br>5.  Participants can join the event on any of the four days.<br>6.  A forum will be hosted at Myst Facebook Page. <br>Myst Fb page: https://www.facebook.com/myst.technovanza.vjti/<br>7.  Clues for the questions will be provided on the Myst facebook page depending on the gameplay.<br>8.  Allfurther event updates will be provided on the same link.<br>9.  Usage of any unfair means, like contacting event heads or organizers, will lead to immediate disqualification of theparticipant.<br>10.  All decisions in matters of eligibility, authenticity and final judgment will bewith the Event Heads of Myst, Technovanza.<br>",
+			"PointSystem" : "1.  For each correct answer, participants will be awarded with 10 points.<br>2.  Participants who answers the all questions of the each round on their respective days will be awarded with the bonus points at the end of the each respective rounds.<br>For example, If the participant completes the round (i.e. answers all ten questions correctly) on the same day as the round starts, then s/he will be rewarded bonus points based on the time s/he answers all the ten questions.<br>3.  The total of all the rounds will be considered while declaring winner.<br>"
+		},
+		{
+			"Name" : "IoT",
+			"Intro" : "IOT will contain questions about various activities which are performed on internet. It doesn’t require any programming knowledge or technical skill. It will test how much you know about internet and things which it contain that is information. For this the participant should know basic information about internet facilities and what it provides. ",
+			"Theme" : "<b>COMING SOON</b>",
+			"Gameplay" : "<b>ROUND 1:SIMPLE MULTIPLE CHOICE QUESTIONS</b>This round will consist of simple multiple choice questions on general knowledge of internet of things. Here the players will be judged on their scores. Contestants will require basic knowledge about internet of things to successfully complete this round. Total 30 questions.<br><br><b>Marking Scheme</b>:<br>1 point per question (no negative marking).\n<b>ROUND 2:   PUZZLES ON IOT</b><br>This round will include puzzles based on information about internet of things. The difficulty in this round will be medium. Total 10 questions.\n<br><b>Marking Scheme</b>:<br>3 points per question (no negative marking).<br><b>ROUND 3: ESSAY ROUND</b><br>This round will have essay writing. The contestants will have to explain their idea on topic provided. They will have to explain (not in technical depth) how their idea can be implemented.",
+			"Arena" : "<b>COMING SOON</b>",
+			"TeamSpecs" : "IoT is an <b>Individual</b> event",
+			"BotSpecs" : "<b>COMING SOON</b>",
+			"Rules" : "a.  Internet of Things is based on <br>b.  Each person can register only once.<br>c.  The participants have to go through 3 rounds in IOT <br>d.  After receiving the problem statement the members will not be allowed to discuss the approach to be followed.<br>e.  Participants are not allowed to bring any media devices such as pen drives, CD, DVD etc.<br>f.  Cell phones must be switched off.<br>g.  Any violation of rule may lead to disqualification.<br>h.  Apart from these Rules, some additional rules can be disclosed on the spot.<br>",
+			"PointSystem" : "<b>ROUND 1:    SIMPLE MULTIPLE CHOICE QUESTIONS</b><br><br><b>Marking Scheme</b>:<br>1 point per question (no negative marking).<br><br><b>CRITERIA FOR SELECTION</b>:<br>20 players with highest scores will qualify for semifinal round.<br><b>ROUND 2:       PUZZLES ON IOT</b><br><br><b>Marking Scheme</b>:<br>3 points per question (no negative marking).      <br><br><b>CRITERIA FOR SELECTION</b>:<br>t5 players with highest score will qualify for final round.<br><b>ROUND 3:       ESSAY ROUND</b><br><br><b>CRITERIA FOR SELECTION</b>:                  One finalist with best explanation will win."
 		},
 		{
 			"Name" : "Quriosity",
