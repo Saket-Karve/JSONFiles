@@ -2,6 +2,14 @@
 "news": 
 	[
 		{
+			"fburl": "https://m.facebook.com/story.php?story_fbid=10154726299029672&id=136220994671",
+			"tweeturl": "https://twitter.com/Technovanza/status/773811901641793536",
+			"instaurl": "https://www.instagram.com/_u/technovanza/",
+			"title": "Live streaming of John Mather's lecture",
+			"content": "Catch him live from Washington DC! @NASA @NobelPrize #Nobel",
+			"image": "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/liveStreaming.JPG"
+		},
+		{
 			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10154719762734672/?type=3&theater",
 			"tweeturl": "https://twitter.com/Technovanza/status/773167975633412096",
 			"instaurl": "https://www.instagram.com/p/BKBKGP5hbU3/?taken-by=technovanza",
