@@ -118,7 +118,7 @@
 	],
 	"Outdoor Partners" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/Mata.png",
+			"logo" : "",
 			"Name" : "Maharashtra Times",
 			"link" : "",
 			"category" : "NA"
@@ -127,7 +127,7 @@
 	],
 	"Technical Partners" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/pudhari.png",
+			"logo" : "",
 			"Name" : "Pudhari",
 			"link" : "",
 			"category" : "NA"
@@ -136,7 +136,7 @@
 	],
 	"Online Partners" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
+			"logo" : "",
 			"Name" : "",
 			"link" : "",
 			"category" : "NA"
@@ -145,7 +145,7 @@
 	],
 	"Other Partners" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
+			"logo" : "",
 			"Name" : "",
 			"link" : "",
 			"category" : ""
