@@ -13,12 +13,21 @@
 	],
 	"GLS" : [
 		{
+			"Speaker Name" : "Mr. Alan Mamedi",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "22/09/2016",
+			"Time" : "17:00",
+			"Description" : "CEO and Co-founder of Truecaller",
+			"Topic" : "",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/JohnMather_GLS_Techno.jpg"
+		},
+		{
 			"Speaker Name" : "Dr. John Mather",
 			"Venue" : "Mechanical Seminar Hall",
 			"Date" : "08/09/2016",
 			"Time" : "17:00",
 			"Description" : "A Nobel Laureate and a senior astrophysicist from NASA",
-			"Topic" : "",
+			"Topic" : "History of Universe",
 			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/JohnMather_GLS_Techno.jpg"
 		}
 	]
