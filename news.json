@@ -1,14 +1,21 @@
 { 
 "news": 
 	[
-	
 		{
-			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10154719762734672/?type=3&theater",
-			"tweeturl": "https://twitter.com/Technovanza/status/773167975633412096",
-			"instaurl": "https://www.instagram.com/p/BKBKGP5hbU3/?taken-by=technovanza",
-			"title": "Guest Lecture By Dr. John Mather",
-			"content": "Catch him live from Washington DC! Register: http://bit.do/JohnMather  @NASA @NobelPrize #Nobel",
-			"image": "https://pbs.twimg.com/media/CrrYK2pUkAAXFGe.jpg:large"
+			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10154783217344672/?type=3&theater",
+			"tweeturl": "https://twitter.com/Technovanza/status/779678054691983361",
+			"instaurl": "https://www.instagram.com/p/BKvayn2Bchv/?taken-by=technovanza",
+			"title": "Robowars",
+			"content": "War doesn't determine who is right , it determines who is left!#VJTI , #technovanza  presents #Robowars",
+			"image": "https://scontent.fbom1-1.fna.fbcdn.net/v/t1.0-9/14440861_10154783217344672_5071583442487614456_n.jpg?oh=d4b8d80c2726d58501386de6d3d84968&oe=58807721"
+		},
+		{
+			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10154790694539672/?type=3&theater",
+			"tweeturl": "https://twitter.com/Technovanza/status/780408314089738240",
+			"instaurl": "https://www.instagram.com/p/BK0n9QhBJEo/?taken-by=technovanza",
+			"title": "Startup Fair",
+			"content": "For registration: http://bit.do/StartupFair  For any query: Email:startupfair@technovanza.org #startup #startupindia",
+			"image": "https://scontent.fbom1-1.fna.fbcdn.net/t31.0-8/s960x960/14444798_10154790694539672_9099882245998095458_o.jpg"
 		},
 		{
 			"fburl": "https://www.facebook.com/technovanza/photos/pcb.10154716082899672/10154716065004672/?type=3&theater",
