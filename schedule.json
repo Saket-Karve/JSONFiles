@@ -3,6 +3,34 @@
 
 	],
 	"Online Events" : [
+		{
+			"Event Name" : "Code Royale",
+			"Venue" : "",
+			"Date" : "25/10/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Virtual Stock Market",
+			"Venue" : "",
+			"Date" : "18/10/2016",
+			"Time" : "8:00 PM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Internet Of Things",
+			"Venue" : "",
+			"Date" : "25/9/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Algocrack",
+			"Venue" : "",
+			"Date" : "13/9/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		}
 
 	],
 	"iCode" : [
