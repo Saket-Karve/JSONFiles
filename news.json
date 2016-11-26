@@ -1,6 +1,23 @@
 { 
 "news": 
 	[
+		
+		{
+			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10155000653109672/?type=3&theater",
+			"tweeturl": "https://twitter.com/Technovanza/status/799985302215348224",
+			"instaurl": "https://www.instagram.com/p/BM_q94mBsxK/?taken-by=technovanza",
+			"title": "UNESCO Patronage",
+			"content": "Technovanza is proud to announce the receipt of Patronage from UNESCO, which is the highest form of UNESCO's support. #UNESCO #Technovanza",
+			"image": "https://scontent.fbom1-1.fna.fbcdn.net/v/t1.0-9/15078878_10155000653109672_44013191672502782_n.jpg?oh=25f57f3b7fa1fbc56e2abd651180c89c&oe=58D12C93"
+		},
+		{
+			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10155008480449672/?type=3&theater",
+			"tweeturl": "https://twitter.com/Technovanza/status/800700147210416129",
+			"instaurl": "https://www.instagram.com/p/BNEyM8-Bc3R/?taken-by=technovanza",
+			"title": "iCode",
+			"content": "Technovanza And SAP are proud to present ICode, Put your coding skills to test with a variety of coding competitions. #Technovanza @SAP",
+			"image": "https://scontent.fbom1-1.fna.fbcdn.net/v/t1.0-9/15193565_10155008480449672_2195966947520217566_n.jpg?oh=2e7f8bcd0f7d2ff9c91bef10363a60ab&oe=58B9BC78"
+		},
 		{
 			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10154994181609672/?type=3&theater",
 			"tweeturl": "https://twitter.com/Technovanza/status/799260650962710529",
