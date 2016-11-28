@@ -1,9 +1,9 @@
 {
 	"Title Sponsor" :[
 		{
-			"logo" : "http://technovanza.org/Spons2015/lnt.png",
-			"Name" : "Larsen and Toubro",
-			"link" : "http://www.larsentoubro.com"
+			"logo" : "",
+			"Name" : "",
+			"link" : ""
 		}
 
 	],
@@ -25,92 +25,92 @@
 	],
 	"Sponsored By" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/khemani.jpg",
-			"Name" : "K-Hemani",
-			"link" : "http://www.khemani.co.in"
+			"logo" : "",
+			"Name" : "",
+			"link" : ""
 		}
 
 	],
 	"In Association with" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/bse.png",
-			"Name" : "Bombay Stock Exchange",
-			"link" : "http://www.bseindia.com",
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/prolite.jpg",
-			"Name" : "prolite",
-			"link" : "http://www.prolite.in",
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/endeavor.jpg",
-			"Name" : "Endeavor",
-			"link" : "http://www.endeavorcareers.com",
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/jsw.png",
-			"Name" : "JSW",
-			"link" : "http://www.jsw.in/steel",
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/vishaworld.jpg",
-			"Name" : "Visha World",
-			"link" : "http://www.vishaworld.com",
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
 			"category" : "NA"
 		}
 		
 	],
 	"Media Partners" : [
 		{
-			"logo" : "http://technovanza.org/Spons2015/Nabata.jpg",
-			"Name" : "Navbharat Times",
+			"logo" : "",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/Mata.png",
-			"Name" : "Maharashtra Times",
+			"logo" : "",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/pudhari.png",
-			"Name" : "Pudhari",
+			"logo" : "",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/corporateindia.jpg",
-			"Name" : "Corporate India",
-			"link" : "http://www.corporateindia.biz",
-			"category" : "NA"
-		},
-		{
-			"logo" : "http://technovanza.org/Spons2015/efygroup.jpg",
-			"Name" : "EFY Group",
-			"link" : "http://efy.in",
-			"category" : "NA"
-		},
-		{
-			"logo" : "http://technovanza.org/Spons2015/freepress.png",
-			"Name" : "FREEPRESS",
+			"logo" : "",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/jam.jpg",
-			"Name" : "JAM",
+			"logo" : "",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/digit.png",
-			"Name" : "Digit.in",
-			"link" : "http://www.digit.in",
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
+			"category" : "NA"
+		},
+		{
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
+			"category" : "NA"
+		},
+		{
+			"logo" : "",
+			"Name" : "",
+			"link" : "",
 			"category" : "NA"
 		}
 		
@@ -119,7 +119,7 @@
 	"Outdoor Partners" : [
 		{
 			"logo" : "",
-			"Name" : "Maharashtra Times",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		}
@@ -128,7 +128,7 @@
 	"Technical Partners" : [
 		{
 			"logo" : "",
-			"Name" : "Pudhari",
+			"Name" : "",
 			"link" : "",
 			"category" : "NA"
 		}
@@ -145,10 +145,10 @@
 	],
 	"Other Partners" : [
 		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : ""
+			"logo" : "http://technovanza.org/spons2016/tplink.png",
+			"Name" : "TP-LINK",
+			"link" : "www.tp-link.in",
+			"category" : "Networking Partner"
 		}
 		
 	]
