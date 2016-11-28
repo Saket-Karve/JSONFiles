@@ -1,10 +1,6 @@
 {
 	"Title Sponsor" :[
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : ""
-		}
+		
 
 	],
 	"Powered By" : [
@@ -16,131 +12,29 @@
 
 	],
 	"Co-powered By" : [
-		{
-			"logo" : "http://technovanza.org/Spons2015/mumbaimirror.png",
-			"Name" : "Mumbai Mirror",
-			"link" : "http://www.mumbaimirror.com"
-		}
-
+		
 	],
 	"Sponsored By" : [
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : ""
-		}
-
+		
 	],
 	"In Association with" : [
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		}
+		
 		
 	],
 	"Media Partners" : [
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		},
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		}
+		
 		
 		
 	],
 	"Outdoor Partners" : [
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		}
 		
 	],
 	"Technical Partners" : [
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		}
+		
 		
 	],
 	"Online Partners" : [
-		{
-			"logo" : "",
-			"Name" : "",
-			"link" : "",
-			"category" : "NA"
-		}
+		
 		
 	],
 	"Other Partners" : [
