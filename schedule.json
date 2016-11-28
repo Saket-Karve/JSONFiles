@@ -1,5 +1,50 @@
 {
 	"Mega Events" :[
+		{
+			"Event Name" : "Robowars",
+			"Team 1" : "",
+			"Team 2" : "",
+			"Venue" : "QUAD",
+			"Date" : "23/12/2016 to 25/12/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "VRC",
+			"Team 1" : "",
+			"Team 2" : "",
+			"Venue" : "QUAD",
+			"Date" : "23/12/2016 to 25/12/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Robosumo",
+			"Team 1" : "",
+			"Team 2" : "",
+			"Venue" : "QUAD",
+			"Date" : "23/12/2016 to 25/12/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Aqua Battlefront",
+			"Team 1" : "",
+			"Team 2" : "",
+			"Venue" : "QUAD",
+			"Date" : "23/12/2016 to 25/12/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
+		{
+			"Event Name" : "Fast N Furious",
+			"Team 1" : "",
+			"Team 2" : "",
+			"Venue" : "Football Ground",
+			"Date" : "23/12/2016 to 25/12/2016",
+			"Time" : "10:00 AM",
+			"Result" : ""
+		},
 
 	],
 	"Online Events" : [
