@@ -86,6 +86,33 @@
 	],
 	"GLS" : [
 		{
+			"Speaker Name" : "Medha Patkar",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "",
+			"Time" : "",
+			"Description" : "Social Activist",
+			"Topic" : "",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/ASKKpng.png"
+		},
+		{
+			"Speaker Name" : "Dr. Bjarne Stroustrup",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "",
+			"Time" : "",
+			"Description" : "Inventor of C++",
+			"Topic" : "My Journey",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/ASKKpng.png"
+		},
+		{
+			"Speaker Name" : "Dr. Jayant Narlikar",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "",
+			"Time" : "",
+			"Description" : "Founder of Conformal Gravity Theory",
+			"Topic" : "Conformal Gravity Theory: Hoyle-Narlikar Theory",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/ASKKpng.png"
+		},
+		{
 			"Speaker Name" : "Dr. A. S. Kiran Kumar",
 			"Venue" : "Auditorium, VJTI",
 			"Date" : "",
