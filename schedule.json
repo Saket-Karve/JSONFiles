@@ -92,7 +92,7 @@
 			"Time" : "",
 			"Description" : "Social Activist",
 			"Topic" : "",
-			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/ASKKpng.png"
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/medha_circle.png"
 		},
 		{
 			"Speaker Name" : "Dr. Bjarne Stroustrup",
@@ -101,7 +101,7 @@
 			"Time" : "",
 			"Description" : "Inventor of C++",
 			"Topic" : "My Journey",
-			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/ASKKpng.png"
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/bjarne_circle.png"
 		},
 		{
 			"Speaker Name" : "Dr. Jayant Narlikar",
@@ -110,7 +110,7 @@
 			"Time" : "",
 			"Description" : "Founder of Conformal Gravity Theory",
 			"Topic" : "Conformal Gravity Theory: Hoyle-Narlikar Theory",
-			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/ASKKpng.png"
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/jayant_circle.png"
 		},
 		{
 			"Speaker Name" : "Dr. A. S. Kiran Kumar",
