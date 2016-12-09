@@ -1,5 +1,10 @@
 {
 	"Title Sponsor" :[
+		{
+			"logo" : "http://technovanza.org/spons2016/GCL.jpg",
+			"Name" : "Gharda Chemicals Ltd.",
+			"link" : ""
+		}
 		
 
 	],
@@ -18,15 +23,78 @@
 		
 	],
 	"In Association with" : [
+		{
+			"logo" : "http://technovanza.org/spons2016/endeavor.jpg",
+			"Name" : "Endeavor",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/sap.png",
+			"Name" : "SAP",
+			"link" : "http://www.redhat.com"
+		}
+
 		
 		
 	],
 	"Media Partners" : [
-		
-		
-		
+		{
+			"logo" : "http://technovanza.org/spons2016/mata.png",
+			"Name" : "Maharashtra Times",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/corporate.png",
+			"Name" : "Corporate India",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/asianage.png",
+			"Name" : "Asian Age",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/jam.png",
+			"Name" : "JAM",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/nbt.jpg",
+			"Name" : "Navbharat Times",
+			"link" : ""
+		},
+		{
+			"logo" : "",
+			"Name" : "EFY",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/freepress.jpg",
+			"Name" : "Free Press Journal",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/sakal.jpg",
+			"Name" : "Sakal",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/engineeringreview.jpg",
+			"Name" : "Engineering Review",
+			"link" : ""
+		}
 	],
 	"Outdoor Partners" : [
+		{
+			"logo" : "http://technovanza.org/spons2016/frontage.png",
+			"Name" : "Frontage Media",
+			"link" : ""
+		},
+		{
+			"logo" : "http://technovanza.org/spons2016/pioneer.jpg",
+			"Name" : "Pioneer Advertising",
+			"link" : ""
+		}
 		
 	],
 	"Technical Partners" : [
