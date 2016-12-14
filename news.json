@@ -1,7 +1,14 @@
 { 
 "news": 
 	[
-		
+		{
+			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10155106677454672/?type=3&theater",
+			"tweeturl": "http://www.technovanza.org",
+			"instaurl": "http://www.technovanza.org",
+			"title": "M-Indicator Hackathon",
+			"content": "We are pleased to announce an Android App Development 24 hours Hackathon in association with m-Indicator",
+			"image": "https://scontent.fbom3-1.fna.fbcdn.net/v/t1.0-9/15400332_10155106677454672_1229148200277233948_n.jpg?oh=7ac3854402045142ea208c42232c4ab8&oe=58B828CB"
+		},
 		{
 			"fburl": "https://www.facebook.com/technovanza/photos/a.159212454671.115821.136220994671/10155037860549672/?type=3&theater",
 			"tweeturl": "https://twitter.com/Technovanza/status/803597224164913152",
