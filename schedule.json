@@ -86,6 +86,33 @@
 	],
 	"GLS" : [
 		{
+			"Speaker Name" : "Mr. Suresh Prabhu",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "",
+			"Time" : "",
+			"Description" : "Railway Minister of India",
+			"Topic" : "Indian Railways",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/medha_circle.png"
+		},
+		{
+			"Speaker Name" : "Balaji Viswanathan",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "",
+			"Time" : "",
+			"Description" : "Founder and VP, Invento",
+			"Topic" : "Launch MITRA - Humanoid",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/medha_circle.png"
+		},
+		{
+			"Speaker Name" : "Javagal Srinath",
+			"Venue" : "Auditorium, VJTI",
+			"Date" : "",
+			"Time" : "",
+			"Description" : "Former Cricketer",
+			"Topic" : "His Journey",
+			"Image" : "https://raw.githubusercontent.com/Saket-Karve/JSONFiles/master/medha_circle.png"
+		},
+		{
 			"Speaker Name" : "Medha Patkar",
 			"Venue" : "Auditorium, VJTI",
 			"Date" : "",
