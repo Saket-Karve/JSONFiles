@@ -1,4 +1,13 @@
 {
+	"Other Partners" : [
+		{
+			"logo" : "http://technovanza.org/Spons2015/esselworld.jpg",
+			"Name" : "Essel World",
+			"link" : "www.esselworld.in",
+			"category" : "Fun Partner"
+		}
+		
+	]
 	"Title Sponsor" :[
 		{
 			"logo" : "http://technovanza.org/spons2016/GCL.jpg",
