@@ -1,21 +1,10 @@
-{
-	"Other Partners" : [
-		{
-			"logo" : "http://technovanza.org/Spons2015/esselworld.jpg",
-			"Name" : "Essel World",
-			"link" : "www.esselworld.in",
-			"category" : "Fun Partner"
-		}
-		
-	],
+{	
 	"Title Sponsor" :[
 		{
 			"logo" : "http://technovanza.org/spons2016/GCL.jpg",
 			"Name" : "Gharda Chemicals Ltd.",
 			"link" : ""
 		}
-		
-
 	],
 	"Powered By" : [
 		{
@@ -23,7 +12,6 @@
 			"Name" : "Redhat",
 			"link" : "http://www.redhat.com"
 		}
-
 	],
 	"Co-powered By" : [
 		
@@ -41,10 +29,7 @@
 			"logo" : "http://technovanza.org/spons2016/sap.png",
 			"Name" : "SAP",
 			"link" : "http://www.redhat.com"
-		}
-
-		
-		
+		}	
 	],
 	"Media Partners" : [
 		{
@@ -121,6 +106,5 @@
 			"link" : "www.esselworld.in",
 			"category" : "Fun Partner"
 		}
-		
 	]
 }
