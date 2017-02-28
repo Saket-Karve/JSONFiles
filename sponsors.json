@@ -1,117 +1,101 @@
-{	
-	"Title Sponsor" :[
+{ 
+"sponsors": 
+	[
 		{
-			"logo" : "http://technovanza.org/spons2016/GCL.jpg",
-			"Name" : "Gharda Chemicals Ltd.",
-			"link" : ""
-		}
-	],
-	"Powered By" : [
-		{
-			"logo" : "http://technovanza.org/Spons2015/redhat.png",
-			"Name" : "Redhat",
-			"link" : "http://www.redhat.com"
-		}
-	],
-	"Catalyst Title Sponsor" : [
-		{
-			"logo" : "http://i63.tinypic.com/2vb0l4z.jpg",
-			"Name" : "Vidyalankar",
-			"link" : "http://vidyalankar.org/"
-		}
-	],
-	"Co-powered By" : [
-		
-	],
-	"Sponsored By" : [
-		
-	],
-	"In Association with" : [
-		{
-			"logo" : "http://technovanza.org/spons2016/endeavor.jpg",
-			"Name" : "Endeavor",
-			"link" : ""
+			"type": "Title Sponsors",
+			"logo": "http://technovanza.org/spons2016/GCL.jpg",
+			"name": "Gharda Chemicals Ltd.",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/sap.png",
-			"Name" : "SAP",
-			"link" : "http://www.redhat.com"
-		}	
-	],
-	"Media Partners" : [
-		{
-			"logo" : "http://technovanza.org/spons2016/mata.png",
-			"Name" : "Maharashtra Times",
-			"link" : ""
+			"type": "Powered By",
+			"logo": "http://technovanza.org/Spons2015/redhat.png",
+			"name": "Redhat",
+			"link": "http://www.redhat.com"
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/corporate.png",
-			"Name" : "Corporate India",
-			"link" : ""
+			"type": "In Association with",
+			"logo": "http://technovanza.org/spons2016/endeavor.jpg",
+			"name": "Endeavor",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/asianage.png",
-			"Name" : "Asian Age",
-			"link" : ""
+			"type": "In Association with",
+			"logo": "http://technovanza.org/spons2016/sap.png",
+			"name": "SAP",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/jam.png",
-			"Name" : "JAM",
-			"link" : ""
+			"type": "Catalyst Title Sponsor",
+			"logo": "http://i63.tinypic.com/2vb0l4z.jpg",
+			"name": "Vidyalankar",
+			"link": "http://vidyalankar.org/"
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/nbt.jpg",
-			"Name" : "Navbharat Times",
-			"link" : ""
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/mata.png",
+			"name": "Maharashtra Times",
+			"link": ""
 		},
 		{
-			"logo" : "",
-			"Name" : "EFY",
-			"link" : ""
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/corporate.png",
+			"name": "Corporate India",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/freepress.jpg",
-			"Name" : "Free Press Journal",
-			"link" : ""
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/asianage.png",
+			"name": "Asian Age",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/sakal.jpg",
-			"Name" : "Sakal",
-			"link" : ""
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/jam.png",
+			"name": "JAM",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/engineeringreview.jpg",
-			"Name" : "Engineering Review",
-			"link" : ""
-		}
-	],
-	"Outdoor Partners" : [
-		{
-			"logo" : "http://technovanza.org/spons2016/frontage.png",
-			"Name" : "Frontage Media",
-			"link" : ""
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/nbt.jpg",
+			"name": "Navbharat Times",
+			"link": ""
 		},
 		{
-			"logo" : "http://technovanza.org/spons2016/pioneer.jpg",
-			"Name" : "Pioneer Advertising",
-			"link" : ""
-		}
-		
-	],
-	"Technical Partners" : [
-		
-		
-	],
-	"Online Partners" : [
-		
-		
-	],
-	"Other Partners" : [
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/freepress.jpg",
+			"name": "Free Press Journal",
+			"link": ""
+		},
 		{
-			"logo" : "http://technovanza.org/Spons2015/esselworld.jpg",
-			"Name" : "Essel World",
-			"link" : "www.esselworld.in",
-			"category" : "Fun Partner"
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/sakal.jpg",
+			"name": "Sakal",
+			"link": ""
+		},
+		{
+			"type": "Media Partners",
+			"logo": "http://technovanza.org/spons2016/engineeringreview.jpg",
+			"name": "Engineering Review",
+			"link": ""
+		},
+		{
+			"type": "Outdoor Partners",
+			"logo": "http://technovanza.org/spons2016/frontage.png",
+			"name": "Frontage Media",
+			"link": ""
+		},
+		{
+			"type": "Outdoor Partners",
+			"logo": "http://technovanza.org/spons2016/pioneer.jpg",
+			"name": "Pioneer Advertising",
+			"link": ""
+		},
+		{
+			"type": "Fun Partners",
+			"logo": "http://technovanza.org/Spons2015/esselworld.jpg",
+			"name": "Essel World",
+			"link": "www.esselworld.in"
 		}
 	]
 }
